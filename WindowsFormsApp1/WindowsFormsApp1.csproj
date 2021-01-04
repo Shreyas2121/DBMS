@@ -52,17 +52,17 @@
     <Compile Include="Booking.Designer.cs">
       <DependentUpon>Booking.cs</DependentUpon>
     </Compile>
-    <Compile Include="Confirm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Confirm.Designer.cs">
-      <DependentUpon>Confirm.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_Pass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Pass.Designer.cs">
+      <DependentUpon>F_Pass.cs</DependentUpon>
     </Compile>
     <Compile Include="ListofTrains.cs">
       <SubType>Form</SubType>
@@ -105,11 +105,11 @@
     <EmbeddedResource Include="Booking.resx">
       <DependentUpon>Booking.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Confirm.resx">
-      <DependentUpon>Confirm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_Pass.resx">
+      <DependentUpon>F_Pass.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ListofTrains.resx">
       <DependentUpon>ListofTrains.cs</DependentUpon>

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Confirm : Form
+    public partial class F_Pass : Form
     {
-        public Confirm()
+        public F_Pass()
         {
             InitializeComponent();
         }
